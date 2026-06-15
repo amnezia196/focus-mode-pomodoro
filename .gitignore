@@ -1,0 +1,10 @@
+node_modules/
+.obsidian/
+*.hotreload
+dist/
+installer/
+outputs/
+*.zip
+*.exe
+*.docx
+*.pdf
