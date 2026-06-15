@@ -1,0 +1,9 @@
+{
+  "id": "focus-mode-pomodoro",
+  "name": "Focus Mode Pomodoro",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "MVP plugin for concentration in Obsidian: focus mode, hidden interface elements, and a Pomodoro timer.",
+  "author": "Емешкин Сергей Сергеевич",
+  "isDesktopOnly": false
+}
