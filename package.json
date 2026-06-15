@@ -1,0 +1,25 @@
+{
+  "name": "focus-mode-pomodoro",
+  "version": "1.0.0",
+  "description": "MVP Obsidian plugin for focus mode and a Pomodoro timer.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production",
+    "check": "node --check main.js"
+  },
+  "keywords": [
+    "obsidian",
+    "pomodoro",
+    "focus-mode"
+  ],
+  "author": "Емешкин Сергей Сергеевич",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "^0.20.2",
+    "obsidian": "^1.5.12",
+    "typescript": "^5.4.2"
+  }
+}
